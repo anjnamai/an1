@@ -190,4 +190,4 @@ echo "transfer.js script created."
 echo "Transferring tokens..."
 npx hardhat run scripts/transfer.js --network swisstronik
 echo "Tokens transferred."
-echo "Done"
+echo "Done"git add . && git commit -m "feat: initiated the project" && git push origin main
